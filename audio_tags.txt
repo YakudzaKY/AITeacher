@@ -1,0 +1,69 @@
+# AUDIO TAGS
+
+ElevenLabs Audio Tags are words wrapped in square brackets that the new Eleven v3 model can interpret and use to direct the audible action. They can be anything from `[excited]`, `[whispers]`, and `[sighs]` through to `[gunshot]`, `[clapping]` and `[explosion]`.
+
+Audio Tags let you shape how AI voices sound, including nonverbal cues like tone, pauses, and pacing. Whether you're building immersive audiobooks, interactive characters, or dialogue-driven media, these simple script-level tools give you precise control over emotion and delivery.
+
+You can place Audio Tags anywhere in your script to shape delivery in real time. You can also use combinations of tags within a script or even a sentence. Tags fall into core categories:
+    - **Emotions**: These tags can help you set the emotional tone of the voice — whether it's somber, intense, or upbeat. For example you could use one or a combination of `[sad]`, `[angry]`, `[happily]` and `[sorrowful]`.
+    - **Delivery direction**: These are more about the tone and performance. You can use these tags to adjust volume and energy for scenes that need restraint or force. Examples include: `[whispers]`, `[shouts]` and even `[x accent]`.
+    - **Human reactions**: True natural speech includes reactions. For example, you can use this to add realism by embedding natural, unscripted moments into speech. For example: `[laughs]`, `[clears throat]` and `[sighs]`.
+
+## Situational Awareness
+
+Tags such as `[WHISPER]`, `[SHOUTING]`, and `[SIGH]` let Eleven v3 react to the moment—raising stakes, softening warnings, or pausing for suspense.
+Situational awareness means the AI adapts its delivery to fit the moment. With Audio Tags, you control not just what the model says — but how it responds.
+
+Audio Tags let you simulate a range of emotional and physical cues:
+
+- Emotional tone: `[EXCITED]`, `[NERVOUS]`, `[FRUSTRATED]`,`[TIRED]`
+- Reactions: `[GASP]`, `[SIGH]`, `[LAUGHS]`, `[GULPS]`
+- Volume & energy: `[WHISPERING]`, `[SHOUTING]`, `[QUIETLY]`, `[LOUDLY]`
+- Pacing & rhythm: `[PAUSES]`, `[STAMMERS]`, `[RUSHED]`
+
+## Character Performance
+
+From `[pirate voice]` to `[French accent]`, tags turn narration into role-play. Shift persona mid-line and direct full-on character performances without changing models.
+
+Character-focused tags allow you to shape vocal identity and presence:
+
+- Accents & dialects: `[British accent]`, `[Australian accent],` `[Southern US accent]`
+- Archetypes & roles: `[pirate voice]`, `[evil scientist voice]`, `[childlike tone]`
+- Speech styles: `[dramatic]`, `[sarcastically]`, `[matter-of-fact]`, `[whiny]`
+- Genre cues: `[fantasy narrator],` `[sci-fi AI voice]`, `[classic film noir]`
+
+## Emotional Context
+
+Cues like `[sigh]`, `[excited]`, or `[tired]` steer feelings moment by moment, layering tension, relief, or humour—no re-recording needed.
+
+Here are some frequently used tags to direct emotional performance:
+
+- Emotional states: `[excited]`, `[nervous],` `[frustrated]`, `[sorrowful]`, `[calm]`
+- Reactions: `[sigh]`, `[laughs]`, `[gulps]`, `[gasps]`, `[whispers]`
+- Cognitive beats: `[pauses]`, `[hesitates]`, `[stammers]`, `[resigned tone]`
+- Tone cues: `[cheerfully]`, `[flatly]`, `[deadpan]`, `[playfully]`
+
+These can be combined or sequenced for richer emotional arcs: `[hesitant]` I... I didn’t mean to say that. `[regretful]` It just came out.
+
+## Narrative Intelligence
+
+Storytelling is timing. Tags such as `[pause]`, `[awe]`, or `[dramatic tone]` control rhythm and emphasis so AI voices guide the listener through each beat.
+
+Here are some tags that help direct longform delivery, internal monologue, and exposition:
+
+- Story beats: `[pause]`, `[continues softly]`, `[hesitates]`, `[resigned]`
+- Tone setting: `[dramatic tone]`, `[lighthearted]`, `[reflective]`, `[serious tone]`
+- Narrator POV: `[awe]`, `[sarcastic tone]`, `[wistful]`, `[matter-of-fact]`
+- Rhythm & flow: `[slows down]`, `[rushed]`, `[emphasized]`
+- These can be sequenced for subtle build-up: `[reflective]` I never thought I’d say this, but... `[pause]` maybe the machine was right.
+
+## Delivery Control
+
+Fine-tune pacing and emphasis. Tags like `[pause]`, `[rushed]`, or `[drawn out]` give precision over tempo, turning plain text into performance.
+
+Tags give you access to the subtle cues humans use to pace speech naturally:
+
+- Pauses & breaks: `[pause]`, `[breathes]`, `[continues after a beat]`
+- Speed cues: `[rushed]`, `[slows down]`, `[deliberate]`, `[rapid-fire]`
+- Hesitation & rhythm: `[stammers]`, `[drawn out]`, `[repeats]`, `[timidly]`
+- Emphasis: `[emphasized]`, `[stress on next word]`, `[understated]`
