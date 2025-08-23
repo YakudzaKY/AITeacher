@@ -1,6 +1,6 @@
 # AUDIO TAGS
 
-ElevenLabs Audio Tags are words wrapped in square brackets that the new Eleven v3 model can interpret and use to direct the audible action. They can be anything from `[excited]`, `[whispers]`, and `[sighs]` through to `[gunshot]`, `[clapping]` and `[explosion]`.
+ElevenLabs Audio Tags are words wrapped in square brackets that the new Eleven v3 model can interpret and use to direct the audible action.
 
 Audio Tags let you shape how AI voices sound, including nonverbal cues like tone, pauses, and pacing. Whether you're building immersive audiobooks, interactive characters, or dialogue-driven media, these simple script-level tools give you precise control over emotion and delivery.
 
